@@ -1,0 +1,11 @@
+std_msgs/Header header
+std_msgs/String id1
+std_msgs/Float64 Fx_p1
+std_msgs/Float64 Fy_p1
+std_msgs/Float64 Fz_p1
+std_msgs/Float64 Mx_p1
+std_msgs/Float64 My_p1
+std_msgs/Float64 Mz_p1
+std_msgs/Float64 XCoP_p1
+std_msgs/Float64 YCoP_p1
+std_msgs/Float64 T_p1
